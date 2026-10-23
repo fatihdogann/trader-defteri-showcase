@@ -27,7 +27,7 @@ customizable market workspace. The journal works independently of the terminal.
 
 ## Defter Terminal
 
-![Defter Terminal: watchlist, charts, alerts, news and journal summary](assets/defter-terminal.jpg)
+![Defter Terminal: watchlist, chart, journal positions, performance, economic calendar and market analysis](assets/defter-terminal.jpg)
 
 - **Customizable layout:** movable cards and workspace profiles.
 - **Market monitoring:** multiple TradingView charts, symbol watchlists and price sources.

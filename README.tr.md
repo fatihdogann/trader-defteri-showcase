@@ -27,7 +27,7 @@ piyasa ekranında toplar. İki ürün birlikte kullanılabilir; işlem günlüğ
 
 ## Defter Terminal
 
-![Defter Terminal: izleme listesi, grafik, alarm, haber ve defter özeti](assets/defter-terminal.jpg)
+![Defter Terminal: izleme listesi, grafik, TradeJournal pozisyonları, işlem performansı, ekonomik takvim ve piyasa analizi](assets/defter-terminal.jpg)
 
 - **Özelleştirilebilir düzen:** yeniden konumlandırılabilen kartlar ve çalışma alanı profilleri.
 - **Piyasa takibi:** çoklu TradingView grafikleri, sembol izleme listeleri ve fiyat kaynakları.
