@@ -13,7 +13,7 @@ customizable market workspace. The journal works independently of the terminal.
 | [Trader Defteri — live app](https://app.mehmetfatihdogan.com.tr/) | Web journal; account required |
 | [Defter Terminal — live app](https://terminal.mehmetfatihdogan.com.tr/) | Market workspace; authorized account required |
 | [Product website](https://defter.mehmetfatihdogan.com.tr/) | Features, screenshots and FAQs |
-| [Terminal mobile web demo](https://defter.mehmetfatihdogan.com.tr/defter-terminal.html#mobil-demo) | Explore the interface with sample data |
+| [Terminal screenshots](https://defter.mehmetfatihdogan.com.tr/defter-terminal.html) | Desktop, mobile and Backtest Lab screens with sample data |
 
 ## Trader Defteri
 

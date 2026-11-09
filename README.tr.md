@@ -13,7 +13,7 @@ piyasa ekranında toplar. İki ürün birlikte kullanılabilir; işlem günlüğ
 | [Trader Defteri — canlı uygulama](https://app.mehmetfatihdogan.com.tr/) | Web uygulaması; hesapla giriş |
 | [Defter Terminal — canlı uygulama](https://terminal.mehmetfatihdogan.com.tr/) | Piyasa çalışma alanı; yetkili hesapla giriş |
 | [Tanıtım sitesi](https://defter.mehmetfatihdogan.com.tr/) | Ürün özellikleri, ekranlar ve sık sorulan sorular |
-| [Terminal mobil web demosu](https://defter.mehmetfatihdogan.com.tr/defter-terminal.html#mobil-demo) | Örnek verilerle arayüzü deneme |
+| [Terminal ekran görüntüleri](https://defter.mehmetfatihdogan.com.tr/defter-terminal.html) | Örnek verilerle masaüstü, mobil ve Backtest Lab ekranları |
 
 ## Trader Defteri
 
